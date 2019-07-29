@@ -1,0 +1,11 @@
+C:\Users\matth\workspace\randomNumbersPractice\bin\Debug\netcoreapp2.2\randomNumbersPractice.deps.json
+C:\Users\matth\workspace\randomNumbersPractice\bin\Debug\netcoreapp2.2\randomNumbersPractice.runtimeconfig.json
+C:\Users\matth\workspace\randomNumbersPractice\bin\Debug\netcoreapp2.2\randomNumbersPractice.runtimeconfig.dev.json
+C:\Users\matth\workspace\randomNumbersPractice\bin\Debug\netcoreapp2.2\randomNumbersPractice.dll
+C:\Users\matth\workspace\randomNumbersPractice\bin\Debug\netcoreapp2.2\randomNumbersPractice.pdb
+C:\Users\matth\workspace\randomNumbersPractice\obj\Debug\netcoreapp2.2\randomNumbersPractice.csprojAssemblyReference.cache
+C:\Users\matth\workspace\randomNumbersPractice\obj\Debug\netcoreapp2.2\randomNumbersPractice.csproj.CoreCompileInputs.cache
+C:\Users\matth\workspace\randomNumbersPractice\obj\Debug\netcoreapp2.2\randomNumbersPractice.AssemblyInfoInputs.cache
+C:\Users\matth\workspace\randomNumbersPractice\obj\Debug\netcoreapp2.2\randomNumbersPractice.AssemblyInfo.cs
+C:\Users\matth\workspace\randomNumbersPractice\obj\Debug\netcoreapp2.2\randomNumbersPractice.dll
+C:\Users\matth\workspace\randomNumbersPractice\obj\Debug\netcoreapp2.2\randomNumbersPractice.pdb
